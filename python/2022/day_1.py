@@ -1,6 +1,6 @@
 from aocd import get_data
 
-USER_SESSION = '53616c7465645f5f482bd5a563018311b6a153ca12437a8c490e82963acb708f58baf18173026ce6eb22b615d9957eae2f2589c99a75c636910f9637fd85aa53'
+USER_SESSION = 'my_token'
 
 if __name__ == "__main__":
     # Reading input
