@@ -1,0 +1,24 @@
+# Scala
+/target/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# SBT
+project/target/
+project/project/
+*.log
+*.launch
+lib_managed/
+target/
+.history/
+
+# IntelliJ
+out/
+.idea_modules/
+
+# macOS
+.DS_Store
+
+.bsp
