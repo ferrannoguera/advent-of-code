@@ -3,5 +3,5 @@ This is a collection of my participation in the [Advent of code](https://advento
 
 | Year                                   | Progress |
 |----------------------------------------|----------|
-| [2022](https://adventofcode.com/2022/) | 1 / 25   |
+| [2022](https://adventofcode.com/2022/) | 2 / 25   |
 | [2023](https://adventofcode.com/2023/) | - / 25   |
